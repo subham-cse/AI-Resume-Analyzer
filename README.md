@@ -1,0 +1,1 @@
+#This AI Resume Analyzer parses resume based on NLP and recommmed changes, skills, certifications and analyses the resume score
